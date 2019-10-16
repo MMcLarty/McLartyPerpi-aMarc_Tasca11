@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Estructura del fichero XML de un Grup Musical -->
+<!-- Marc McLarty -->
+
+<Grupo_Musical xml:lang="es">
+
+    <Nombre> El canto del loco </Nombre>
+
+    <Ano> 1994 </Ano>
+
+    <Generos>
+        <Genero> Pop Rock </Genero>
+        <Genero> Pop </Genero>
+        <Genero> Power Pop </Genero>
+    </Generos>
+
+    <Pais> España </Pais>
+    
+    <Sitio_Web> https://es.wikipedia.org/wiki/El_Canto_del_Loco </Sitio_Web>
+
+    <URL_Imagen> https://es.wikipedia.org/wiki/El_Canto_del_Loco#/media/Archivo:El_canto_del_loco.jpg </URL_Imagen>
+
+    <Videos> 
+        <URL_Video> https://www.youtube.com/watch?v=n9jzGmFBzx8 </URL_Video>
+        <URL_Video> https://www.youtube.com/watch?v=hEtSAOkjKVI </URL_Video>
+    </Videos>
+
+    <Miembros>
+        <Miembro>
+            <Nombre> Dani Martin </Nombre>
+            <Instrumento> Cantante </Instrumento>
+        </Miembro>
+        <Miembro>  
+            <Nombre> David Otero </Nombre>
+            <Instrumento> Guitarra </Instrumento>
+        </Miembro>
+        <Miembro> 
+            <Nombre> Ivan Ganchegui </Nombre>
+            <Instrumento> Guitarra </Instrumento>
+        </Miembro>
+        <Miembro>
+            <Nombre> Chema Ruiz </Nombre>
+            <Instrumento> Bajo </Instrumento>
+        </Miembro>
+        <Miembro>
+            <Nombre> Jandro Velazquez </Nombre>
+            <Instrumento> Bateria </Instrumento>
+        </Miembro>
+    </Miembros>
+
+    <Grupos_Relacionados>
+        <Grupo>
+            <Nombre> Hombres G </Nombre>
+        </Grupo>
+        <Grupo>
+            <Nombre> Pignoise </Nombre>
+        </Grupo>
+        <Grupo>
+            <Nombre> Efecto Pasillo </Nombre>
+        </Grupo>
+        <Grupo>
+            <Nombre> El sueño de Morfeo </Nombre>
+        </Grupo>
+    </Grupos_Relacionados>
+
+    <Discografia>
+        <Album>
+            <Titulo> Zapatillas </Titulo>
+            <Any> 2005 </Any>
+            <Compania_Discografica> BMG Music Spain </Compania_Discografica>
+            <Canciones>
+                <Cancion> Zapatillas </Cancion>
+                <Cancion> Vovlera </Cancion>
+                <Cancion> Besos </Cancion>
+            </Canciones>
+        </Album>
+        <Album>
+            <Titulo> Estados de animos </Titulo>
+            <Any> 2003 </Any>
+            <Compania_Discografica> BMG Music Spain </Compania_Discografica>
+            <Canciones>
+                <Cancion> Vovler a disfrutar </Cancion>
+                <Cancion> La madre de Jose </Cancion>
+                <Cancion> Ya nada volvera a ser como antes </Cancion>
+            </Canciones>
+        </Album>
+        <Album>
+            <Titulo> Por mi y por todos mis compañeros </Titulo>
+            <Any> 2009 </Any>
+            <Compania_Discografrica> Sonic Music Entretainment </Compania_Discografrica>
+            <Canciones>
+                <Cancion> Mejor </Cancion>
+                <Cancion> Se acabo </Cancion>
+                <Cancion> Nada de nada </Cancion>
+            </Canciones>
+        </Album>
+    </Discografia>
+    
+</Grupo_Musical>
